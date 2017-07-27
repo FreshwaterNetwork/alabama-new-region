@@ -65,15 +65,14 @@
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "Wisconsin’s Waters, Wetlands, and Watersheds",
-            "description": "<p>Wisconsin’s waters and wetlands help our state thrive, benefiting people, fish, and wildlife. Explore the following mapping tools to better understand these important resources and guide decisions around protecting and restoring them.</p>",
+            "title": "Alabama Site (Need Text Here)",
+            "description": "<p>Alabama Desc. Text goes here</p>",
             "plugins": [
 				{
-					"title": "Wetlands by Design: A Watershed Approach",
-					"description": "Wetlands can improve water quality, reduce flood impacts, help streams flow, provide habitat, and offer many other services. But not all wetlands provide the same services to the same degree! To find the best sites to restore and protect—and the most promising watersheds to work in—check out the Wetlands and Watersheds Explorer.",
-					"pluginName": "wiApp"
+					"title": "Coastal Alabama Restoration Tool",
+					"description": "Coastal Alabama Restoration Tool Desc. text",
+					"pluginName": "coastal-alabama-restoration-tool"
 				}
             ]
       }
 }
-
