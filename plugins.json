@@ -1,14 +1,15 @@
 {
   "plugins": [
-    {
-  	  "repo": "wiApp",
-  	  "name": "wiApp",
-  	  "org": "FreshwaterNetwork"
-    },
-		{
-			"repo": "wiApp",
-			"name": "wiApp",
-            "ver": "a26cf79"
-		}
+    
+	{
+		"repo": "regional-planning",
+		"name": "regional-planning",
+    		"ver": "a26cf79"
+	},
+	{
+		"repo": "coastal-alabama-restoration-tool",
+		"name": "coastal-alabama-restoration-tool",
+	 	"org": "FreshwaterNetwork"
+	}
    ]
 }
